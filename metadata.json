@@ -1,0 +1,5 @@
+{
+  "name": "Universalia CLE",
+  "description": "Universalia 语言的计算语言学引擎，支持基于规则的中文 NMT 翻译和高保真 TTS。",
+  "requestFramePermissions": []
+}
